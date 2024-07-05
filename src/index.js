@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import ReactDOM from "react-dom";
-import App from "./app";
+import App from "./App";
 import Store from "./store";
 import "./styles.css";
 
